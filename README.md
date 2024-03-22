@@ -8,8 +8,6 @@ In this project, I decided to have some fun by delving into the functionalities 
 
 ## Deploy ✔️
 
-
-Inglês
 Para fazer o deploy desse projeto rode no terminal:
 To deploy this project, run in the terminal:
 
